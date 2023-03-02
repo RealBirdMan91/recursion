@@ -1,0 +1,107 @@
+{
+	"courses": [
+		{
+			"title": "UI",
+			"description": "All about UI",
+			"children": []
+		},
+		{
+			"title": "Javascript",
+			"description": "All about Javascript",
+			"children": [
+				{
+					"title": "Angular",
+					"description": "All about Angular",
+					"children": [
+						{
+							"title": "Angular 1",
+							"description": "All about Angular 1",
+							"children": []
+						},
+						{
+							"title": "Angular 2",
+							"description": "All about Angular 2",
+							"children": [
+								{
+									"title": "Angular 2.1",
+									"description": "All about Angular 2.1",
+									"children": []
+								},
+								{
+									"title": "Angular 2.2",
+									"description": "All about Angular 2.2",
+									"children": [
+										{
+											"title": "Angular 2.2.1",
+											"description": "All about Angular 2.2.1",
+											"children": []
+										},
+										{
+											"title": "Angular 2.2.2",
+											"description": "All about Angular 2.2.2",
+											"children": []
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"title": "React",
+					"description": "All about React",
+					"children": [
+						{
+							"title": "React 1",
+							"description": "All about React 1",
+							"children": [
+								{
+									"title": "React 1.1",
+									"description": "All about React 1.1",
+									"children": []
+								},
+								{
+									"title": "React 1.2",
+									"description": "All about React 1.2",
+									"children": []
+								}
+							]
+						},
+						{
+							"title": "React 2",
+							"description": "All about React 2",
+							"children": []
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "CSS",
+			"description": "All about CSS",
+			"children": [
+				{
+					"title": "CSS 1",
+					"description": "All about CSS 1",
+					"children": [
+						{
+							"title": "CSS 1.1",
+							"description": "All about CSS 1.1",
+							"children": []
+						},
+						{
+							"title": "CSS 1.2",
+							"description": "All about CSS 1.2",
+							"children": []
+						}
+					]
+				},
+				{
+					"title": "CSS 2",
+					"description": "All about CSS 2",
+					"children": []
+				}
+			]
+		}
+	]
+}
